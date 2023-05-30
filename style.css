@@ -1,0 +1,34 @@
+body {
+    background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
+ 
+   
+
+}
+.h1 {
+    width: auto;
+    color: blueviolet;
+    margin: 40px;
+    padding: auto;
+    text-align: center;
+    font-size: 70px;
+    writing-mode: horizontal-tb;
+    }
+.food-head {
+    width: 20px;
+    display:  block;
+    margin: 30px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: darkgreen;
+    border: 20px;
+    border-color: brown;
+    writing-mode: vertical-lr;
+        
+}
+.p {
+    text-align: center;
+    font-display: 30px;
+    
+}
